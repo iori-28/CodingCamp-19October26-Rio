@@ -1,2 +1,2 @@
-# CodingCamp-19October26-Riora
+# CodingCamp-19October26-Rio
 TO-DO LIST LIFE DASHBOARD
